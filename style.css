@@ -1,0 +1,60 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #fefaf6;
+}
+
+#about {
+  padding-top: 6rem;
+  color: #fff;
+}
+
+#about h2 {
+  color: #ff9a00;
+  font-size: 40px;
+}
+
+span {
+  color: #fff;
+}
+
+#about p {
+  font-family: Geneva;
+}
+
+#academy {
+  padding-top: 7rem;
+}
+
+#academy h2 {
+  color: #ff9a00;
+  font-size: 40px;
+}
+
+span {
+  color: #fff;
+}
+
+#academy {
+  padding-top: 7rem;
+}
+
+#academy p {
+  color: #fff;
+}
+
+#olimpiade {
+  padding-top: 3rem;
+}
+
+#contact {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+}
+
+#contact h2 {
+  color: #0c1844;
+}
+
+#contact span {
+  color: #ff9a00;
+}
